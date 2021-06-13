@@ -4,6 +4,7 @@ A face mask detector built with Tensorflow, OpenCV in Python
 
 ## Dataset
 Dataset from [Data Flair](https://data-flair.training/blogs/download-face-mask-data/)
+
 Consists of 1376 images with 690 images containing images of people wearing masks and 686 images with people without masks.
 
 You are advised to increase the dataset images, especially those real images, instead of images with masks that are created artificially. Besides, you should increase the variation of masks colour for better accuracy.
@@ -41,5 +42,6 @@ Please change the name according to your image path.
 
 
 P/S This model can be further improved. 
+
 References:
 [SourceCode](https://github.com/sunnyahlawat1713/face-mask-detector-python)
