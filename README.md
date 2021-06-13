@@ -19,7 +19,7 @@ The files in the "face_detector" folder
 
 ## Face Mask Detection
 Base Model - MobileNetV2 Model
-Fine-tuning 
+(Fine-tuning) 
 
 
 ## Instructions to use the code
