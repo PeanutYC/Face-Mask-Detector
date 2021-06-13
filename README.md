@@ -30,14 +30,14 @@ Use the terminal console, type
 
 `python train.py --dataset dataset`
 
-I trained it with 10 epochs only, but you may further training it by modifying the variables
+I trained it with 10 epochs only, but you may further training it by modifying the variables in the code.
 
 ### To test the model
 In the terminal console, type
 
 `python test.py --image "YOUR IMAGE PATH"`
 
-Please change the name according to your image path
+Please change the name according to your image path.
 
 
 P/S This model can be further improved. 
